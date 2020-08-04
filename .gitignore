@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/bot-carrefour.json
+/yt-config.json
 
 # testing
 /coverage
@@ -22,4 +24,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-bot-carrefour.json
